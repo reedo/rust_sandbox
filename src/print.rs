@@ -1,3 +1,4 @@
+#[allow(clippy::print_literal)]
 /// Runs this file.
 pub fn run() {
 	println!("Running `print.rs`");
